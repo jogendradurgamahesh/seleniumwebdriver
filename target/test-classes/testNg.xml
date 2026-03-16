@@ -1,0 +1,14 @@
+<suite name="TestNg Session Automate Suite">
+    <test name="Differnet Testng features">
+        <classes>
+           
+            <class name="testNg.GoogleTest"/>
+            <class name="testNg.GoogleTitleTest"></class>
+             <class name="testNg.InvocationCountTest"></class>
+              <class name="testNg.TestNGBasics"></class>
+              <class name="testNg.TestNgFeatures"></class>
+              <class name="testNg.ExceptionTimeoutTest"></class>
+            
+        </classes>
+    </test>
+</suite>
